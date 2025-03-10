@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Ikram khan",
+    "name": "Ikram Khan",
     "age": 20,
-    "adress": "karachi kosba"
+    "address": "Karachi Kosba"
   },
   {
     "id": 2,
     "name": "Nazmul Hossian",
     "age": 21,
-    "adress": "karachi natore"
+    "address": "Karachi Natore"
   },
   {
     "id": 3,
-    "name": "Abdulllha",
+    "name": "Abdullah",
     "age": 25,
-    "adress": "karachi natore"
+    "address": "Karachi Natore"
   }
 ]
